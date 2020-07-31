@@ -1,0 +1,33 @@
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Account.resources
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Main.resources
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Properties.Resources.resources
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe.config
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.pdb
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.CopyComplete
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.exe
+C:\Users\Administrator\source\repos\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Account.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.pdb
+D:\Project\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe.config
+D:\Project\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.exe
+D:\Project\麻辣烫新枫之谷登陆器\bin\Debug\麻辣烫新枫之谷登陆器.pdb
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csprojAssemblyReference.cache
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Account.resources
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Main.resources
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.Properties.Resources.resources
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.GenerateResource.cache
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.CoreCompileInputs.cache
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.csproj.CopyComplete
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.exe
+D:\Project\麻辣烫新枫之谷登陆器\obj\Debug\麻辣烫新枫之谷登陆器.pdb
